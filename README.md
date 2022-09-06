@@ -1,3 +1,3 @@
 # Few-ID-BERT-Prompt
 
-This code is the pytorch implementation of [A Stack-propagation Framework with Slot Filling for Multi-domain Dialogue State Tracking].
+This code is the pytorch implementation of [Few-shot Spoken Language Understanding for Task-Oriented Dialogue].
